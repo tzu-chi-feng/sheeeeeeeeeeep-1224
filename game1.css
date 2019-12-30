@@ -61,14 +61,17 @@
     background: url(start.jpg) no-repeat;
     margin-left: 10px;
 }
-.btns .submit_btn {
-    display: inline-block;
-    width: 85px;
-    height: 29px;
-    margin-left: 10px;
-    background: url(submit.jpg) no-repeat;
-}
 
+.input {
+  margin:0 auto;
+  width: 100%;
+  color: #fff;
+  font-family: arial,"Microsoft JhengHei","微軟正黑體",sans-serif;
+  font-weight: bold;
+  text-align: center;
+  position: absolute;
+  top: 290px;
+}
 /*移动条*/
 .slider1{
   width: 686px;
